@@ -2,7 +2,7 @@
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 
-<a href="https://kopz9.github.io/trilha-html-modulo-2/">Desafio</a>
+<a href="https://kopz9.github.io/trilha-html-modulo-2/">Resultado final</a>
 
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
